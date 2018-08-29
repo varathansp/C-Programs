@@ -1,0 +1,4 @@
+C:\Users\suyambu\Documents\Visual Studio 2010\Projects\StreamReaderAndWriter\StreamReaderAndWriter\bin\Debug\StreamReaderAndWriter.exe
+C:\Users\suyambu\Documents\Visual Studio 2010\Projects\StreamReaderAndWriter\StreamReaderAndWriter\bin\Debug\StreamReaderAndWriter.pdb
+C:\Users\suyambu\Documents\Visual Studio 2010\Projects\StreamReaderAndWriter\StreamReaderAndWriter\obj\x86\Debug\StreamReaderAndWriter.exe
+C:\Users\suyambu\Documents\Visual Studio 2010\Projects\StreamReaderAndWriter\StreamReaderAndWriter\obj\x86\Debug\StreamReaderAndWriter.pdb

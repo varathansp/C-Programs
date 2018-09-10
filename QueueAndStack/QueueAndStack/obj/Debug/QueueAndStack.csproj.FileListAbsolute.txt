@@ -1,0 +1,6 @@
+c:\users\varathan sp\documents\visual studio 2015\Projects\QueueAndStack\QueueAndStack\bin\Debug\QueueAndStack.exe.config
+c:\users\varathan sp\documents\visual studio 2015\Projects\QueueAndStack\QueueAndStack\bin\Debug\QueueAndStack.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\QueueAndStack\QueueAndStack\bin\Debug\QueueAndStack.pdb
+c:\users\varathan sp\documents\visual studio 2015\Projects\QueueAndStack\QueueAndStack\obj\Debug\QueueAndStack.csprojResolveAssemblyReference.cache
+c:\users\varathan sp\documents\visual studio 2015\Projects\QueueAndStack\QueueAndStack\obj\Debug\QueueAndStack.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\QueueAndStack\QueueAndStack\obj\Debug\QueueAndStack.pdb

@@ -1,0 +1,4 @@
+C:\Users\suyambu\Documents\Visual Studio 2010\Projects\InnerException\InnerException\bin\Debug\InnerException.exe
+C:\Users\suyambu\Documents\Visual Studio 2010\Projects\InnerException\InnerException\bin\Debug\InnerException.pdb
+C:\Users\suyambu\Documents\Visual Studio 2010\Projects\InnerException\InnerException\obj\x86\Debug\InnerException.exe
+C:\Users\suyambu\Documents\Visual Studio 2010\Projects\InnerException\InnerException\obj\x86\Debug\InnerException.pdb
